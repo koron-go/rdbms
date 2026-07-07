@@ -2,7 +2,6 @@
 
 [![GoDoc](https://godoc.org/github.com/koron-go/rdbms?status.svg)](https://godoc.org/github.com/koron-go/rdbms)
 [![CircleCI](https://img.shields.io/circleci/project/github/koron-go/rdbms/master.svg)](https://circleci.com/gh/koron-go/rdbms/tree/master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/koron-go/rdbms)](https://goreportcard.com/report/github.com/koron-go/rdbms)
 
 Discern kind of RDBMS from the driver (`*sql.DB`).
 
